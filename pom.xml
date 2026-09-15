@@ -16,7 +16,7 @@
     </properties>
 
     <dependencies>
-        <!-- Dependencia para Tomcat 9 -->
+
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
